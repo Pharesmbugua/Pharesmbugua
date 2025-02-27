@@ -1,7 +1,7 @@
 <img src="icons/me.jpg" align="right" />
 
 Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>,
-I am Phares Mbugua, a student at the Technical University of Kenya pursuring a degree in Chemical Engineering. I'm passionate about coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and willing to learn.
+I am Phares Mbugua,a Chemical Engineering student with a growing passion for coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and automation. I love solving problems, building projects and continuously learning new technologies.
 The technologies expected to master are as follows:
    Frontend: -HTML5  -React 
              -CSS3  -Javascript
@@ -9,7 +9,14 @@ The technologies expected to master are as follows:
    Backend: -Node.js  -Express.js
             -MongoDB  -REST APIs
 
-You can contact me through email : pharesmbugua0@gmail.com or call: 0796465722 OR
+Intrests: Automation, Forex & Crypto Tradin, Web development
+
+
+Goals: -Master Python and build useful automation scripts
+       -Improve focus and discipline in coding
+       -Work on real-world projects to sharpen on my skills
+
+Let's connect through email : pharesmbugua0@gmail.com, text: 0796465722 or through
 social media platforms:
 
 [![GitHub](icons/github.png)](https://github.com/Pharesmbugua)
