@@ -18,7 +18,7 @@ social media platforms:
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/PharesMbugua/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/fia.nte/)
 
-Learning:## Programming Languages
+##Learning Programming Languages
 
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
