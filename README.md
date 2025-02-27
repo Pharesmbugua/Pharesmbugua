@@ -18,10 +18,16 @@ social media platforms:
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/PharesMbugua/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/fia.nte/)
 
-##Learning Programming Languages
+Learning:
 
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 
+<div align="center">
+<p>Have a good day!</p>
+<div>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
+</div>
