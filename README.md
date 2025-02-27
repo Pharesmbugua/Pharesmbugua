@@ -1,7 +1,7 @@
 <img src="icons/me.jpg" align="right" />
 
 Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>,
-I am Phares Mbugua, a student at the Technical University of Kenya pursuring a degree in Chemical Engineering. I'm passionate about coding and willing to learn.
+I am Phares Mbugua, a student at the Technical University of Kenya pursuring a degree in Chemical Engineering. I'm passionate about coding <p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em> and willing to learn.
 The technologies expected to master are as follows:
    Frontend: -HTML5  -React 
              -CSS3  -Javascript
