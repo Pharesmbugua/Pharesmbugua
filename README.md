@@ -10,7 +10,7 @@ The technologies expected to master are as follows:
    Backend: -Node.js  -Express.js
             -MongoDB  -REST APIs
 
-Intrests: Automation, Forex & Crypto Tradin, Web development
+Intrests: Automation, Forex & Crypto Trading, Web development
 
 
 Goals: -Master Python and build useful automation scripts
