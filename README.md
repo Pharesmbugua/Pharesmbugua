@@ -11,7 +11,7 @@ The technologies expected to master are as follows:
 You can contact me through email : pharesmbugua0@gmail.com or call: 0796465722 OR
 
 
-[![GitHub](icons/github.png)](https://github.com/Pharesmbugua)
+[![GitHub](Pharesmbugua/github.png)](https://github.com/Pharesmbugua)
 [![YouTube](icons/youtube.png)](https://youtube.com/user/Phares_mbugua)
 [![Twitter](icons/twitter.png)](https://twitter.com/pharesmbugua)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/PharesMbugua/)
