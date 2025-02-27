@@ -9,7 +9,7 @@ The technologies expected to master are as follows:
             -MongoDB  -REST APIs
 
 You can contact me through email : pharesmbugua0@gmail.com or call: 0796465722 OR
-
+social media platforms:
 
 [![GitHub](icons/github.png)](https://github.com/Pharesmbugua)
 [![YouTube](icons/youtube.png)](https://youtube.com/user/Phares_mbugua)
@@ -17,6 +17,7 @@ You can contact me through email : pharesmbugua0@gmail.com or call: 0796465722 O
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/PharesMbugua/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/fia.nte/)
 
+Learning:
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
