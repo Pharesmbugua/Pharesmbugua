@@ -1,4 +1,4 @@
-<img src="icons/me.jpeg" align="right" />
+<img src="icons/me.jpg" align="right" />
 
 I am Phares Mbugua, a student at the Technical University of Kenya pursuring a degree in Chemical Engineering. I'm passionate about coding and willing to learn.
 The technologies expected to master are as follows:
