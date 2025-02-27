@@ -6,6 +6,7 @@ The technologies expected to master are as follows:
    Frontend: -HTML5  -React 
              -CSS3  -Javascript
              -Next.js  -Tailwind CSS
+             
    Backend: -Node.js  -Express.js
             -MongoDB  -REST APIs
 
